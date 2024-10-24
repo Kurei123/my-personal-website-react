@@ -15,15 +15,15 @@ export const AboutSection = (prop: AboutProp) => {
                 <h2 className="text-4xl lg:text-5xl py-2 text-teal-600 font-medium">Ashley Ken Bongcato</h2>
                 <h3 className="text-xl lg:text-2xl py-2 dark:text-gray-300">BTVTED Student</h3>
                 <p className="text-md py-4 leading-7 lg:leading-8 text-gray-800 dark:text-gray-400">
-                    I am a dedicated <span className="text-teal-500">Software Developer</span> with extensive experience in building both <span className="text-teal-500">Web</span> and <span className="text-teal-500">Desktop</span> Applications using a variety of programming languages and web technologies.
-                    My core expertise lies in <span className="text-teal-500">backend development</span>, where I have strong development skills in <span className="text-teal-500">server-side logic</span>, <span className="text-teal-500">API design & functionalities</span>, and <span className="text-teal-500">database architecture</span>.
-                    I am also knowledgeable in setting up and managing <span className="text-teal-500">CI/CD pipelines</span>, as well as configuring and maintaining both web and game server technologies.
+                    I am currently a <span className="text-teal-500">BTVTEd student</span>, with a passion for <span className="text-teal-500">coding</span> as a hobby. Although I couldn’t pursue a course in <span className="text-teal-500">Information Technology</span> for various reasons, my love for software development has only grown stronger over the years.
                 </p>
-                <p className="text-xl text-gray-800 dark:text-gray-200">Let&apos;s Collaborate!</p>
+                <p className="text-md py-4 leading-7 lg:leading-8 text-gray-800 dark:text-gray-400">
+                    I enjoy building <span className="text-teal-500">web applications</span> and <span className="text-teal-500">exploring backend development</span> in my free time, learning through practice and side projects. Coding allows me to express my creativity and solve problems in new and exciting ways.
+                </p>
+                <p className="text-xl text-gray-800 dark:text-gray-200">Let&apos;s Connect!</p>
                 <p className="text-md text-gray-800 dark:text-gray-400 leading-7 lg:leading-8">
                     <a href="#contact-me">
-                        <span className="lg:ml-10">Leverage my expertise</span> to build robust and scalable solutions. Whether it&apos;s software development, database architecture, or intuitive design,
-                        I&apos;m ready to bring your vision to life. Reach out today, and let&apos;s create something extraordinary together.
+                        <span className="lg:ml-10">Even though I’m not formally pursuing IT,</span> I’m always eager to collaborate and build innovative solutions. If you have an idea or project, don’t hesitate to reach out—let’s make something great together.
                     </a>
                 </p>
                 <p className="text-md text-gray-800 dark:text-gray-300 mt-3"> <a href="mailto:clemente@eubiejay.dev" className="text-teal-400">Contact me</a> to start your next project!</p>

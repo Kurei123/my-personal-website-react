@@ -12,8 +12,8 @@ export const AboutSection = (prop: AboutProp) => {
         <section ref={prop.sectionRef} className="px-6 flex justify-center items-center flex-col lg:flex-row lg:h-screen py-20 lg:py-0 mt-16 lg:mt-0" id="about">
             {/* Left Side */}
             <div className="md:mx-10 lg:pt-20 lg:pr-16 text-center lg:text-left">
-                <h2 className="text-4xl lg:text-5xl py-2 text-teal-600 font-medium">Eubie Jay Clemente</h2>
-                <h3 className="text-xl lg:text-2xl py-2 dark:text-gray-300">Software Engineer - Full Stack</h3>
+                <h2 className="text-4xl lg:text-5xl py-2 text-teal-600 font-medium">Ashley Ken Bongcato</h2>
+                <h3 className="text-xl lg:text-2xl py-2 dark:text-gray-300">BTVTED Student</h3>
                 <p className="text-md py-4 leading-7 lg:leading-8 text-gray-800 dark:text-gray-400">
                     I am a dedicated <span className="text-teal-500">Software Developer</span> with extensive experience in building both <span className="text-teal-500">Web</span> and <span className="text-teal-500">Desktop</span> Applications using a variety of programming languages and web technologies.
                     My core expertise lies in <span className="text-teal-500">backend development</span>, where I have strong development skills in <span className="text-teal-500">server-side logic</span>, <span className="text-teal-500">API design & functionalities</span>, and <span className="text-teal-500">database architecture</span>.
